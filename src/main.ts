@@ -1,3 +1,4 @@
+import '@aws-amplify/ui-vue/styles.css';
 import { Amplify } from 'aws-amplify';
 import { createApp } from 'vue';
 import outputs from '../amplify_outputs.json';
