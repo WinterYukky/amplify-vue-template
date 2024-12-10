@@ -1,10 +1,9 @@
 <script setup lang="ts">
-import Todos from './components/Todos.vue'
+import TodoItems from './components/TodoItems.vue';
 </script>
 
 <template>
   <main>
-    <Todos />
+    <todo-items />
   </main>
 </template>
-
